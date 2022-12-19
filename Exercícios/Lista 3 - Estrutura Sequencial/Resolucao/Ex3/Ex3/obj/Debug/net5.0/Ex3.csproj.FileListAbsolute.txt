@@ -1,0 +1,16 @@
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\bin\Debug\net5.0\Ex3.exe
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\bin\Debug\net5.0\Ex3.deps.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\bin\Debug\net5.0\Ex3.runtimeconfig.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\bin\Debug\net5.0\Ex3.runtimeconfig.dev.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\bin\Debug\net5.0\Ex3.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\bin\Debug\net5.0\Ex3.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\Ex3.csproj.AssemblyReference.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\Ex3.AssemblyInfo.cs
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\Ex3.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\refint\Ex3.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\Ex3.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\Ex3.genruntimeconfig.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 03 - Estrutura Sequencial\Ex3\Ex\obj\Debug\net5.0\ref\Ex3.dll

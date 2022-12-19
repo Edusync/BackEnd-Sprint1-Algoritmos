@@ -1,0 +1,16 @@
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\bin\Debug\net5.0\Lista 6 - Exercício 4.exe
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\bin\Debug\net5.0\Lista 6 - Exercício 4.deps.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\bin\Debug\net5.0\Lista 6 - Exercício 4.runtimeconfig.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\bin\Debug\net5.0\Lista 6 - Exercício 4.runtimeconfig.dev.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\bin\Debug\net5.0\Lista 6 - Exercício 4.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\bin\Debug\net5.0\Lista 6 - Exercício 4.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\Lista 6 - Exercício 4.csproj.AssemblyReference.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\Lista 6 - Exercício 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\Lista 6 - Exercício 4.AssemblyInfoInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\Lista 6 - Exercício 4.AssemblyInfo.cs
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\Lista 6 - Exercício 4.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\Lista 6 - Exercício 4.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\refint\Lista 6 - Exercício 4.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\Lista 6 - Exercício 4.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\Lista 6 - Exercício 4.genruntimeconfig.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmo-C#\Resoluções\Lista 06 - Vetores e Funções\Ex4\Lista 6 - Exercício 4\obj\Debug\net5.0\ref\Lista 6 - Exercício 4.dll

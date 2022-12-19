@@ -1,0 +1,16 @@
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\bin\Debug\net5.0\Ex5.exe
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\bin\Debug\net5.0\Ex5.deps.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\bin\Debug\net5.0\Ex5.runtimeconfig.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\bin\Debug\net5.0\Ex5.runtimeconfig.dev.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\bin\Debug\net5.0\Ex5.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\bin\Debug\net5.0\Ex5.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\Ex5.csproj.AssemblyReference.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\Ex5.AssemblyInfoInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\Ex5.AssemblyInfo.cs
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\Ex5.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\refint\Ex5.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\Ex5.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\Ex5.genruntimeconfig.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex5\Ex5\obj\Debug\net5.0\ref\Ex5.dll

@@ -1,0 +1,16 @@
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\bin\Debug\net5.0\Ex14.exe
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\bin\Debug\net5.0\Ex14.deps.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\bin\Debug\net5.0\Ex14.runtimeconfig.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\bin\Debug\net5.0\Ex14.runtimeconfig.dev.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\bin\Debug\net5.0\Ex14.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\bin\Debug\net5.0\Ex14.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\Ex14.csproj.AssemblyReference.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\Ex14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\Ex14.AssemblyInfoInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\Ex14.AssemblyInfo.cs
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\Ex14.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\Ex14.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\refint\Ex14.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\Ex14.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\Ex14.genruntimeconfig.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 04 - Estrutura Condicional e Repetição\Ex14\Ex14\obj\Debug\net5.0\ref\Ex14.dll

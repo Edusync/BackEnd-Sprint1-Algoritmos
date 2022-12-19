@@ -1,0 +1,16 @@
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\bin\Debug\net5.0\Lista1-Ex2.exe
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\bin\Debug\net5.0\Lista1-Ex2.deps.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\bin\Debug\net5.0\Lista1-Ex2.runtimeconfig.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\bin\Debug\net5.0\Lista1-Ex2.runtimeconfig.dev.json
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\bin\Debug\net5.0\Lista1-Ex2.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\bin\Debug\net5.0\Lista1-Ex2.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\Lista1-Ex2.csproj.AssemblyReference.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\Lista1-Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\Lista1-Ex2.AssemblyInfoInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\Lista1-Ex2.AssemblyInfo.cs
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\Lista1-Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\Lista1-Ex2.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\refint\Lista1-Ex2.dll
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\Lista1-Ex2.pdb
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\Lista1-Ex2.genruntimeconfig.cache
+C:\Users\Fernanda\Desktop\Resoluções - .NET\Algoritmos - C#\Lista 01 - Variáveis\Ex2\Lista1-Ex2\obj\Debug\net5.0\ref\Lista1-Ex2.dll
